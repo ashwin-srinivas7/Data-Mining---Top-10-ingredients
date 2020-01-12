@@ -1,4 +1,4 @@
-# Getting Top 10 ingredients from recipe website
+## Getting Top 10 ingredients from recipe website - Data Mining
 
 Website: www.tasteofhome.com
 File Type: Jupyter Notebook (.ipynb)
